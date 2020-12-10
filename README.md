@@ -4,4 +4,4 @@
 
 user manual: https://rpubs.com/selectiveinferencepaul/699241 
 
-Interactive app: testing 
+Interactive app: https://liweihaopaulstatistics.shinyapps.io/Interactive-knockoff/

@@ -1,0 +1,13 @@
+name: Interactive-knockoff
+title: Interactive-knockoff
+username:
+account: liweihaopaulstatistics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3385695
+bundleId: 3972494
+url: https://liweihaopaulstatistics.shinyapps.io/Interactive-knockoff/
+when: 1607633327.81735
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: BHword.csv|README.md
